@@ -2,4 +2,3 @@ New File to Add and Remove from Staging
 Now am using to practice undoing a change that has been committed.
 This is correct.
 and
-THIS IS BAD TEXT
